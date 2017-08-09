@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_navn">MatsleQuizle</string>
+
+    <string name="sporsmaal_iq">Har Mats en IQ over 110?</string>
+    <string name="sporsmaal_penger">Har Mats mer en 110kr på konto?</string>
+    <string name="sporsmaal_vekt">Er Mats over 110 kilo?</string>
+    <string name="sporsmaal_tall">Er 110 det samme som 69 i det binære tallsystemet?</string>
+    <string name="sporsmaal_mer_tall">Er 45 det samme som 69 i hexadesimaler?</string>
+    <string name="sporsmaal_app">Er dette e dum app?</string>
+    <string name="sporsmaal_dit_staat">Vinne Dyrnes Dit Staar påskeEdition 2017?</string>
+
+    <string name="feil_svar">Usant</string>
+    <string name="riktig_svar">Sant</string>
+    <string name="feil_toast">Feil!</string>
+    <string name="riktig_toast">Riktig!</string>
+    <string name="forrige_knappTekst">Forrige</string>
+    <string name="neste_knappTekst">Neste</string>
+    <string name="juks_knapp_tekst">Juks</string>
+    <string name="relativ_knapp">\"Alt e relativt\"</string>
+
+    <string name="advarsel">Er du sikker på at du vil jukse?</string>
+    <string name="jukse_svar_riktig">Sant</string>
+    <string name="jukse_svar_feil">Usant</string>
+    <string name="svar_knapp">Vis svar</string>
+    <string name="juks_riktig_toast">Riktig!</string>
+    <string name="juks_feil_toast">Feil!</string>
+    <string name="juksepave">JuksePave!</string>
+
+
+</resources>
